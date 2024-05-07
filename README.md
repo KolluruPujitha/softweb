@@ -1,4 +1,4 @@
-![Screenshot 2024-05-07 192801](https://github.com/KolluruPujitha/softweb/assets/150231340/5b51c702-7254-4d46-ad20-98242cd3883b)# Ex.07 Software Product Company Website
+# Ex.07 Software Product Company Website
 ## Date:7-05-2024
 
 ## AIM:
